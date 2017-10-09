@@ -46,9 +46,9 @@ OBS.: nos arquivos 'my.cnf' do master e slave, comentar/incluir no parâmentro '
 
 ---- <b>Dados de Acesso</b> ----
 
-servidor master: dbmaster
-servidor slave:  dbslave		
-
-database: dbintelie
-user: administrator
-pass: admin
+servidor master: dbmaster <br>
+servidor slave:  dbslave <br>		
+<br>
+database: dbintelie <br>
+user: administrator <br>
+pass: admin <br>
